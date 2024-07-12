@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 539ba0a7851a722c9578eaeb1ec7c4c704ac6907 Aditya Sunil Wakale <adityawakale208@gmail.com> 1718967025 +0530	branch: Created from refs/remotes/origin/main
+539ba0a7851a722c9578eaeb1ec7c4c704ac6907 3cdfd7c5ee70062a22875de69ecd9245bfe3126c Aditya Sunil Wakale <adityawakale208@gmail.com> 1718967888 +0530	commit (merge): Merge master into main with unrelated histories
+3cdfd7c5ee70062a22875de69ecd9245bfe3126c c71ef7cb9a135caac64cd9900ee4a8a7d9845df5 Aditya Sunil Wakale <adityawakale208@gmail.com> 1719784109 +0530	commit: added forms and about
+c71ef7cb9a135caac64cd9900ee4a8a7d9845df5 2904203d74c1bd27656f2264df096a5a8f9e6aa7 Aditya Sunil Wakale <adityawakale208@gmail.com> 1719863915 +0530	commit: Footer, Achivements, and ScrollBtn added
+2904203d74c1bd27656f2264df096a5a8f9e6aa7 694d5b7f0c56baba6e08ffae3e5b6a56580e9812 Aditya Sunil Wakale <adityawakale208@gmail.com> 1719951977 +0530	commit: updated background theme
+694d5b7f0c56baba6e08ffae3e5b6a56580e9812 1e3acef8ba1bef122c7ccebd3568a2ec46ba1c9c Aditya Sunil Wakale <adityawakale208@gmail.com> 1720105248 +0530	commit: theam, intro and blog carousel updated
+1e3acef8ba1bef122c7ccebd3568a2ec46ba1c9c 80722c7db1a0ab803d96633f4da35571bc3534a0 Aditya Sunil Wakale <adityawakale208@gmail.com> 1720130324 +0530	commit: contact form and about sections added
+80722c7db1a0ab803d96633f4da35571bc3534a0 5162f894ab1e0c7a4e570e5af479d9cdff4601d4 Aditya Sunil Wakale <adityawakale208@gmail.com> 1720183813 +0530	commit: blog list and project list added
+5162f894ab1e0c7a4e570e5af479d9cdff4601d4 7c388c6c381dc947997b8d12ea43a5b45293c311 Aditya Sunil Wakale <adityawakale208@gmail.com> 1720197720 +0530	commit: project filters added
+7c388c6c381dc947997b8d12ea43a5b45293c311 1ad7f07ac4bae75e645dd73359b89f8f40c1e115 Aditya Sunil Wakale <adityawakale208@gmail.com> 1720250606 +0530	commit: details page updated
+1ad7f07ac4bae75e645dd73359b89f8f40c1e115 fb8f47dc24fe97d863cc867395f3ebde4f5c073d Aditya Sunil Wakale <adityawakale208@gmail.com> 1720252884 +0530	commit: location.href #about
+fb8f47dc24fe97d863cc867395f3ebde4f5c073d 3c5f7ddd18f7756a3d6cded7e8241b3146443df4 Aditya Sunil Wakale <adityawakale208@gmail.com> 1720262942 +0530	commit: protected by adding env & services
+3c5f7ddd18f7756a3d6cded7e8241b3146443df4 d09bf3e6992e3ff70aecbe9ff04b39cd9a9aba42 Aditya Sunil Wakale <adityawakale208@gmail.com> 1720298960 +0530	commit: added blogServices and updated funtions
+d09bf3e6992e3ff70aecbe9ff04b39cd9a9aba42 b3192aeb91d6c1f45fec1d44a25ba887b3a1d8bf Aditya Sunil Wakale <adityawakale208@gmail.com> 1720301825 +0530	commit: added Project Services and updated funtions
+b3192aeb91d6c1f45fec1d44a25ba887b3a1d8bf 0acafd5d99dcb89edf86bd2b885a7443cc65e9eb Aditya Sunil Wakale <adityawakale208@gmail.com> 1720812706 +0530	commit: Miner changes
