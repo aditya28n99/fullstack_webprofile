@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/certs
 /.pnp
 .pnp.js
 
@@ -24,3 +25,6 @@ yarn-error.log*
 
 # .gitignore
 .env
+/certs
+.isrgrootx.pem
+./certs/isrgrootx.pem
